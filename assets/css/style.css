@@ -68,3 +68,8 @@ position: absolute;
 .center{
 margin: auto; 
 }
+.width{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
